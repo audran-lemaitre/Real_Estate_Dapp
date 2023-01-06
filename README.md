@@ -1,5 +1,15 @@
 # Real Estate NFT DApp
 
+Goal of the project : Reproducing the Real Estate platform "Zillow" but automated and decentralized with smart contracts. 
+
+Functionality : Putting on sale of tokennised real estate. Interaction between different actors (sellers, buyers, lender, inspector) to allow the transaction to be completed.
+
+Fullstack version : Solidity for backend & React (html, css) for front end.
+
+Use of Hardhat and VS code. 
+
+Source : Site "Zillow" et chaine youtube "Dapp University"
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
