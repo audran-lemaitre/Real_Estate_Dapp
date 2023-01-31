@@ -1,6 +1,6 @@
 # Real Estate NFT dApp
 
-![Project Image](./client/images/home.png)
+![Project Image](./metadata/home.png)
 
 > Fullstack dApp powered by smart contract allowing you purchased digital real estate properties.
 
